@@ -1,287 +1,143 @@
 {
-  "New palette": {
-    "Default": {
-      "Primary": {
-        "Primary1": {
-          "value": "#e60000",
-          "type": "color"
-        },
-        "Primary2": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Primary3": {
-          "value": "#4a4d4e",
-          "type": "color"
-        },
-        "Primary4": {
-          "value": "#25282b",
-          "type": "color"
-        }
+  "Colors": {
+    "Primary": {
+      "Primary1": {
+        "value": "#e60000",
+        "type": "color"
       },
-      "Secondary": {
-        "Secondary1": {
-          "value": "#00697c",
-          "type": "color"
-        },
-        "Secondary2": {
-          "value": "#5e2750",
-          "type": "color"
-        },
-        "Secondary3": {
-          "value": "#eb6100",
-          "type": "color"
-        },
-        "Secondary4": {
-          "value": "#fecb00",
-          "type": "color"
-        },
-        "Secondary5": {
-          "value": "#008a00",
-          "type": "color"
-        },
-        "Secondary6": {
-          "value": "#9c2aa0",
-          "type": "color"
-        },
-        "Secondary7": {
-          "value": "#bd0000",
-          "type": "color"
-        }
+      "Primary2": {
+        "value": "#ffffff",
+        "type": "color"
       },
-      "State": {
-        "Error": {
-          "value": "#bd0000",
-          "type": "color"
-        },
-        "Warn": {
-          "value": "#eb6100",
-          "type": "color"
-        },
-        "Success": {
-          "value": "#008a00",
-          "type": "color"
-        },
-        "Info": {
-          "value": "#005ea5",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "#0096ad",
-          "type": "color"
-        },
-        "Incomplete": {
-          "value": "#bebebe",
-          "type": "color"
-        }
+      "Primary3": {
+        "value": "#4a4d4e",
+        "type": "color"
       },
-      "Monochrome": {
-        "Monochrome1": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Monochrome2": {
-          "value": "#f2f2f2",
-          "type": "color"
-        },
-        "Monochrome3": {
-          "value": "#bebebe",
-          "type": "color"
-        },
-        "Monochrome4": {
-          "value": "#7e7e7e",
-          "type": "color"
-        },
-        "Monochrome5": {
-          "value": "#262626",
-          "type": "color"
-        },
-        "Monochrome6": {
-          "value": "#0d0d0d",
-          "type": "color"
-        }
-      },
-      "Gradient": {
-        "Gradient1": {
-          "value": "linear-gradient(45deg, #820000 0%, #e60000 100%)",
-          "type": "color"
-        },
-        "Gradient2": {
-          "value": "linear-gradient(45deg, #222222 0%, #25282b 100%)",
-          "type": "color"
-        },
-        "Gradient3": {
-          "value": "linear-gradient(45deg, #f4f4f4 0%, #fafafa 100%)",
-          "type": "color"
-        }
-      },
-      "Transparent": {
-        "Opacity1": {
-          "value": "#ffffff26",
-          "type": "color"
-        },
-        "Opacity2": {
-          "value": "#ffffff4d",
-          "type": "color"
-        },
-        "Opacity3": {
-          "value": "#ffffffbf",
-          "type": "color"
-        },
-        "Opacity4": {
-          "value": "#0d0d0d26",
-          "type": "color"
-        },
-        "Opacity5": {
-          "value": "#0d0d0d4d",
-          "type": "color"
-        },
-        "Opacity6": {
-          "value": "#0d0d0dbf",
-          "type": "color"
-        }
+      "Primary4": {
+        "value": "#25282b",
+        "type": "color"
       }
     },
-    "Inverse": {
-      "Primary Inverse": {
-        "Primary1 Inverse": {
-          "value": "#ea1a1a",
-          "type": "color"
-        },
-        "Primary2 Inverse": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Primary3 Inverse": {
-          "value": "#4a4d4e",
-          "type": "color"
-        },
-        "Primary4 Inverse": {
-          "value": "#25282b",
-          "type": "color"
-        }
+    "Secondary": {
+      "Secondary1": {
+        "value": "#00697c",
+        "type": "color"
       },
-      "Secondary Inverse": {
-        "Secondary1 Inverse": {
-          "value": "#0096ad",
-          "type": "color"
-        },
-        "Secondary2 Inverse": {
-          "value": "#b04a98",
-          "type": "color"
-        },
-        "Secondary3 Inverse": {
-          "value": "#eb9700",
-          "type": "color"
-        },
-        "Secondary4 Inverse": {
-          "value": "#fecb00",
-          "type": "color"
-        },
-        "Secondary5 inverse": {
-          "value": "#b7bf10",
-          "type": "color"
-        },
-        "Secondary6 Inverse": {
-          "value": "#d162d5",
-          "type": "color"
-        },
-        "Secondary7 Inverse": {
-          "value": "#f06666",
-          "type": "color"
-        }
+      "Secondary2": {
+        "value": "#5e2750",
+        "type": "color"
       },
-      "State Inverse": {
-        "Error Inverse": {
-          "value": "#f06666",
-          "type": "color"
-        },
-        "Warn Inverse": {
-          "value": "#eb9700",
-          "type": "color"
-        },
-        "Success Inverse": {
-          "value": "#008a00",
-          "type": "color"
-        },
-        "Info Inverse": {
-          "value": "#5f9bc8",
-          "type": "color"
-        },
-        "Focus Inverse": {
-          "value": "#00b0ca",
-          "type": "color"
-        },
-        "Incomplete Inverse": {
-          "value": "#7e7e7e",
-          "type": "color"
-        }
+      "Secondary3": {
+        "value": "#eb6100",
+        "type": "color"
       },
-      "Monochrome Inverse": {
-        "Monochrome1 Inverse": {
-          "value": "#0d0d0d",
-          "type": "color"
-        },
-        "Monochrome2 Inverse": {
-          "value": "#262626",
-          "type": "color"
-        },
-        "Monochrome3 Inverse": {
-          "value": "#7e7e7e",
-          "type": "color"
-        },
-        "Monochrome4 Inverse": {
-          "value": "#bebebe",
-          "type": "color"
-        },
-        "Monochrome5 Inverse": {
-          "value": "#f2f2f2",
-          "type": "color"
-        },
-        "Monochrome6 Inverse": {
-          "value": "#ffffff",
-          "type": "color"
-        }
+      "Secondary4": {
+        "value": "#fecb00",
+        "type": "color"
       },
-      "Gradient Inverse": {
-        "Gradient1 Inverse": {
-          "value": "linear-gradient(45deg, #820000 0%, #e60000 100%)",
-          "type": "color"
-        },
-        "Gradient2 Inverse": {
-          "value": "linear-gradient(45deg, #f4f4f4 0%, #fafafa 100%)",
-          "type": "color"
-        },
-        "Gradient3 Inverse": {
-          "value": "linear-gradient(45deg, #222222 0%, #25282b 100%)",
-          "type": "color"
-        }
+      "Secondary5": {
+        "value": "#008a00",
+        "type": "color"
       },
-      "Transparent Inverse": {
-        "Opacity1 Inverse": {
-          "value": "#ffffff26",
-          "type": "color"
-        },
-        "Opacity2 Inverse": {
-          "value": "#ffffff4d",
-          "type": "color"
-        },
-        "Opacity3 Inverse": {
-          "value": "#ffffffbf",
-          "type": "color"
-        },
-        "Opacity4 Inverse": {
-          "value": "#0d0d0d26",
-          "type": "color"
-        },
-        "Opacity5 Inverse": {
-          "value": "#0d0d0d4d",
-          "type": "color"
-        },
-        "Opacity6 Inverse": {
-          "value": "#0d0d0dbf",
-          "type": "color"
-        }
+      "Secondary6": {
+        "value": "#9c2aa0",
+        "type": "color"
+      },
+      "Secondary7": {
+        "value": "#bd0000",
+        "type": "color"
+      }
+    },
+    "State": {
+      "Error": {
+        "value": "#bd0000",
+        "type": "color"
+      },
+      "Warn": {
+        "value": "#eb6100",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#008a00",
+        "type": "color"
+      },
+      "Info": {
+        "value": "#005ea5",
+        "type": "color"
+      },
+      "Focus": {
+        "value": "#0096ad",
+        "type": "color"
+      },
+      "Incomplete": {
+        "value": "#bebebe",
+        "type": "color"
+      }
+    },
+    "Monochrome": {
+      "Monochrome1": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Monochrome2": {
+        "value": "#f2f2f2",
+        "type": "color"
+      },
+      "Monochrome3": {
+        "value": "#bebebe",
+        "type": "color"
+      },
+      "Monochrome4": {
+        "value": "#7e7e7e",
+        "type": "color"
+      },
+      "Monochrome5": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "Monochrome6": {
+        "value": "#0d0d0d",
+        "type": "color"
+      }
+    },
+    "Gradient": {
+      "Gradient1": {
+        "value": "linear-gradient(45deg, #820000 0%, #e60000 100%)",
+        "type": "color"
+      },
+      "Gradient2": {
+        "value": "linear-gradient(45deg, #222222 0%, #25282b 100%)",
+        "type": "color"
+      },
+      "Gradient3": {
+        "value": "linear-gradient(45deg, #f4f4f4 0%, #fafafa 100%)",
+        "type": "color"
+      }
+    },
+    "Transparent": {
+      "Opacity1": {
+        "value": "#ffffff26",
+        "type": "color"
+      },
+      "Opacity2": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "Opacity3": {
+        "value": "#ffffffbf",
+        "type": "color"
+      },
+      "Opacity4": {
+        "value": "#0d0d0d26",
+        "type": "color"
+      },
+      "Opacity5": {
+        "value": "#0d0d0d4d",
+        "type": "color"
+      },
+      "Opacity6": {
+        "value": "#0d0d0dbf",
+        "type": "color"
       }
     }
   },
@@ -329,44 +185,6 @@
       },
       "7x": {
         "value": "80px",
-        "type": "spacing"
-      }
-    },
-    "tablet": {
-      "xs": {
-        "value": "4px",
-        "type": "spacing"
-      },
-      "s": {
-        "value": "8px",
-        "type": "spacing"
-      },
-      "m": {
-        "value": "12px",
-        "type": "spacing"
-      },
-      "l": {
-        "value": "20px",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "28px",
-        "type": "spacing"
-      },
-      "2x": {
-        "value": "32px",
-        "type": "spacing"
-      },
-      "3x": {
-        "value": "40px",
-        "type": "spacing"
-      },
-      "4x": {
-        "value": "48px",
-        "type": "spacing"
-      },
-      "5x": {
-        "value": "56px",
         "type": "spacing"
       }
     },
@@ -537,1908 +355,3388 @@
       "type": "paragraphSpacing"
     }
   },
-  "Paragraph": {
-    "Desktop": {
-      "Size 1": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 2": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "Tablet": {
-      "Size 1": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 2": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 26,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      }
-    },
+  "Typgraphy": {
     "Mobile": {
-      "Size 1": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+      "Paragraph": {
+        "Size 1": {
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+        "Size 2": {
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 18,
-            "fontSize": "14px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 20,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 16,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         }
       },
-      "Size 2": {
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+      "Heading": {
+        "Size 5": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 32,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 32,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 32,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 40,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 32,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+        "Size 4": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 36,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 36,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 36,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 36,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+        "Size 3": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 24,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 24,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 24,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 24,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+        "Size 2": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+        "Size 1": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 20,
-            "fontSize": 16,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         }
       }
-    }
-  },
-  "Heading": {
+    },
     "Desktop": {
-      "Size 5": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 72,
-            "fontSize": "64px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+      "Paragraph": {
+        "Size 1": {
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 18,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "14px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 72,
-            "fontSize": "64px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+        "Size 2": {
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 72,
-            "fontSize": "64px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 72,
-            "fontSize": "64px",
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
           },
-          "type": "typography"
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 26,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 18,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         }
       },
-      "Size 4": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 3": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 2": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 1": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "Tablet": {
-      "Size 5": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 64,
-            "fontSize": 56,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 4": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 48,
-            "fontSize": 40,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 3": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 2": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 1": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "Mobile": {
-      "Size 5": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 40,
-            "fontSize": 32,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 4": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 36,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 36,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 36,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 36,
-            "fontSize": 28,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 3": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 32,
-            "fontSize": 24,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 2": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 20,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        }
-      },
-      "Size 1": {
-        "Weight 4": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 3": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 2": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 1": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "none"
-          },
-          "type": "typography"
-        },
-        "Weight 4, Link": {
-          "value": {
-            "fontFamily": "Vodafone ExB",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 3, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Bold",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 2, Link": {
-          "value": {
-            "fontFamily": "Vodafone Rg",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
-        },
-        "Weight 1, Link": {
-          "value": {
-            "fontFamily": "Vodafone Lt",
-            "fontWeight": "Regular",
-            "lineHeight": 28,
-            "fontSize": 18,
-            "letterSpacing": 0,
-            "paragraphSpacing": 0,
-            "paragraphIndent": "0px",
-            "textCase": "none",
-            "textDecoration": "underline"
-          },
-          "type": "typography"
+      "Heading": {
+        "Size 5": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 72,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "64px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 72,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "64px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 72,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "64px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 72,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": "64px",
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "Size 4": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 64,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 56,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 64,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 56,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 64,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 56,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 64,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 56,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "Size 3": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 48,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 40,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 48,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 40,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 48,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 40,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 48,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 40,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "Size 2": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 32,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 28,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
+        },
+        "Size 1": {
+          "Weight 4": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "none",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 4, Link": {
+            "fontFamily": {
+              "value": "Vodafone ExB",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 3, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Bold",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 2, Link": {
+            "fontFamily": {
+              "value": "Vodafone Rg",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          },
+          "Weight 1, Link": {
+            "fontFamily": {
+              "value": "Vodafone Lt",
+              "type": "fontFamilies"
+            },
+            "fontWeight": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "lineHeight": {
+              "value": 28,
+              "type": "lineHeights"
+            },
+            "fontSize": {
+              "value": 20,
+              "type": "fontSizes"
+            },
+            "letterSpacing": {
+              "value": 0,
+              "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+              "value": 0,
+              "type": "paragraphSpacing"
+            },
+            "paragraphIndent": {
+              "value": "0px",
+              "type": "paragraphIndent"
+            },
+            "textCase": {
+              "value": "none",
+              "type": "textCase"
+            },
+            "textDecoration": {
+              "value": "underline",
+              "type": "textDecoration"
+            }
+          }
         }
       }
     }
