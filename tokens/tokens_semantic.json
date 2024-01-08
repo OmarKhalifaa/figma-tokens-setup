@@ -2836,7 +2836,7 @@
       "type": "boxShadow"
     },
     "border": {
-      "sec-btnBorder": {
+      "secondry-btnBorder": {
         "value": {
           "width": "2",
           "style": "solid",
