@@ -1964,6 +1964,10 @@
       "SP-14": {
         "value": "20",
         "type": "spacing"
+      },
+      "SP-15": {
+        "value": "12",
+        "type": "spacing"
       }
     },
     "borderRadius": {
@@ -2351,6 +2355,11 @@
         "xxl": {
           "value": "{spacing.SP-7}",
           "type": "spacing"
+        },
+        "regular": {
+          "value": "{spacing.SP-15}",
+          "type": "spacing",
+          "description": "regualr buttons "
         }
       },
       "Paragraph": {
