@@ -1133,18 +1133,11 @@
       }
     }
   },
-  "colors": {
-    "background": {
-      "value": "#ff0b0b",
-      "type": "color"
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Primatives",
-      "Semantic/Light Theme",
-      "colors"
+      "Semantic/Light Theme"
     ]
   }
 }
