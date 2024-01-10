@@ -1,23 +1,26 @@
 {
-  
-    "source": ["output.json"],
-    "platforms": {
-      "css": {
-        "transformGroup": "css",
-        "prefix": "sd",
-        "buildPath": "build/css/",
-        "files": [{
-          "destination": "_variables.css",
-          "format": "css/variables"
-        }]      },
-      "android": {
-        "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],
-        "buildPath": "build/android/src/main/res/values/",
-        "files": [{
-          "destination": "style_dictionary_colors.xml",
-          "format": "android/colors"
-        }]
-      }
+  "source": ["Colors.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "prefix": "sd",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
+      }]
+    },
+    "android": {
+      "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],
+      "buildPath": "build/android/src/main/res/values/",
+      "files": [{
+        "destination": "style_dictionary_colors.xml",
+        "format": "android/colors"
+      }]
+    },
+    "ios-colorsets": {
+      "buildPath": "build/ios-colorsets/",
+      "transforms": ["attribute/cti", "name/cti/pascal", "attribute/color"]
     }
   }
-  
+}
