@@ -2443,7 +2443,7 @@
             "type": "typography"
           }
         },
-        "md": {
+        "Body": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2481,7 +2481,7 @@
             "type": "typography"
           }
         },
-        "md-underline": {
+        "Body-underline": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
