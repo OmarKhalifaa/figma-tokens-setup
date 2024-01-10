@@ -1,144 +1,185 @@
 {
-  "Colors": {
+  "color": {
     "Primary": {
-      "Primary1": {
+      "P1": {
         "value": "#e60000",
         "type": "color"
       },
-      "Primary2": {
+      "P2": {
         "value": "#ffffff",
         "type": "color"
       },
-      "Primary3": {
+      "P3": {
         "value": "#4a4d4e",
         "type": "color"
       },
-      "Primary4": {
+      "P4": {
         "value": "#25282b",
         "type": "color"
       }
     },
     "Secondary": {
-      "Secondary1": {
+      "S1": {
         "value": "#00697c",
         "type": "color"
       },
-      "Secondary2": {
+      "S2": {
         "value": "#5e2750",
         "type": "color"
       },
-      "Secondary3": {
+      "S3": {
         "value": "#eb6100",
         "type": "color"
       },
-      "Secondary4": {
+      "S4": {
         "value": "#fecb00",
         "type": "color"
       },
-      "Secondary5": {
+      "S5": {
         "value": "#008a00",
         "type": "color"
       },
-      "Secondary6": {
+      "S6": {
         "value": "#9c2aa0",
         "type": "color"
       },
-      "Secondary7": {
-        "value": "#bd0000",
-        "type": "color"
-      }
-    },
-    "State": {
-      "Error": {
-        "value": "#bd0000",
-        "type": "color"
-      },
-      "Warn": {
-        "value": "#eb6100",
-        "type": "color"
-      },
-      "Success": {
-        "value": "#008a00",
-        "type": "color"
-      },
-      "Info": {
+      "S7": {
         "value": "#005ea5",
         "type": "color"
       },
-      "Focus": {
+      "S8": {
         "value": "#0096ad",
         "type": "color"
       },
-      "Incomplete": {
+      "S9": {
         "value": "#bebebe",
+        "type": "color"
+      },
+      "S10": {
+        "value": "#BD0000",
         "type": "color"
       }
     },
     "Monochrome": {
-      "Monochrome1": {
+      "MC1": {
         "value": "#ffffff",
         "type": "color"
       },
-      "Monochrome2": {
+      "MC2": {
         "value": "#f2f2f2",
         "type": "color"
       },
-      "Monochrome3": {
+      "MC3": {
         "value": "#bebebe",
         "type": "color"
       },
-      "Monochrome4": {
+      "MC4": {
         "value": "#7e7e7e",
         "type": "color"
       },
-      "Monochrome5": {
+      "MC5": {
         "value": "#262626",
         "type": "color"
       },
-      "Monochrome6": {
+      "MC6": {
         "value": "#0d0d0d",
+        "type": "color"
+      },
+      "MC7": {
+        "value": "#1A1A1A",
         "type": "color"
       }
     },
     "Gradient": {
-      "Gradient1": {
+      "GR1": {
         "value": "linear-gradient(45deg, #820000 0%, #e60000 100%)",
         "type": "color"
       },
-      "Gradient2": {
+      "GR2": {
         "value": "linear-gradient(45deg, #222222 0%, #25282b 100%)",
         "type": "color"
       },
-      "Gradient3": {
+      "GR3": {
         "value": "linear-gradient(45deg, #f4f4f4 0%, #fafafa 100%)",
         "type": "color"
       }
     },
     "Transparent": {
-      "Opacity1": {
+      "OP1": {
         "value": "#ffffff26",
         "type": "color"
       },
-      "Opacity2": {
+      "OP2": {
         "value": "#ffffff4d",
         "type": "color"
       },
-      "Opacity3": {
+      "OP3": {
         "value": "#ffffffbf",
         "type": "color"
       },
-      "Opacity4": {
+      "OP4": {
         "value": "#0d0d0d26",
         "type": "color"
       },
-      "Opacity5": {
+      "OP5": {
         "value": "#0d0d0d4d",
         "type": "color"
       },
-      "Opacity6": {
+      "OP6": {
         "value": "#0d0d0dbf",
+        "type": "color"
+      }
+    },
+    "Interaction": {
+      "Active": {
+        "value": "#B80000",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#CF0000",
+        "type": "color"
+      },
+      "Active2": {
+        "value": "#005463",
+        "type": "color"
+      },
+      "Hover2": {
+        "value": "#005F70",
+        "type": "color"
+      },
+      "Active3": {
+        "value": "#BC4E00",
+        "type": "color"
+      },
+      "Hover3": {
+        "value": "#D45700",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "#A10000",
+        "type": "color"
+      },
+      "Phover": {
+        "value": "#C30000",
+        "type": "color"
+      },
+      "PDisabled": {
+        "value": "#ED9696",
+        "type": "color"
+      },
+      "Green2": {
+        "value": "#006100",
+        "type": "color"
+      },
+      "grey2": {
+        "value": "#565656",
+        "type": "color"
+      },
+      "grey3": {
+        "value": "#979797",
         "type": "color"
       }
     }
   }
+
 }
