@@ -397,7 +397,7 @@
       }
     }
   },
-  "Semantic/Light Theme": {
+  "Semantic/LightTheme": {
     "Background": {
       "Primary": {
         "Default": {
@@ -1137,7 +1137,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "Primatives",
-      "Semantic/Light Theme"
+      "Semantic/LightTheme"
     ]
   }
 }
