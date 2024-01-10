@@ -1,6 +1,6 @@
 {
   "Primatives": {
-    "Colors": {
+    "color": {
       "Primary": {
         "P1": {
           "value": "#e60000",
@@ -398,206 +398,240 @@
     }
   },
   "Semantic/LightTheme": {
-    "Background": {
-      "Primary": {
-        "Default": {
-          "value": "{Colors.Primary.P1}",
-          "type": "color",
-          "description": "Default Brand Color"
-        },
-        "Hover": {
-          "value": "{Colors.Interaction.Hover}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Colors.Secondary.S10}",
-          "type": "color"
-        }
-      },
-      "Surface": {
-        "Hover": {
-          "value": "{Colors.Monochrome.MC2}",
-          "type": "color"
-        },
-        "Default": {
-          "value": "{Colors.Monochrome.MC1}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Colors.Monochrome.MC3}",
-          "type": "color"
-        }
-      },
-      "Basic": {
-        "secondry": {
-          "value": "{Colors.Monochrome.MC2}",
-          "type": "color"
-        },
-        "Default": {
-          "value": "{Colors.Monochrome.MC1}",
-          "type": "color"
-        },
-        "teratary": {
-          "value": "{Colors.Monochrome.MC3}",
-          "type": "color"
-        },
-        "quaternary": {
-          "value": "{Colors.Monochrome.MC4}",
-          "type": "color"
-        }
-      },
-      "Neutrals": {
-        "Default": {
-          "value": "{Colors.Monochrome.MC6}",
-          "type": "color"
-        }
-      },
-      "State": {
-        "Error": {
+    "color": {
+      "Background": {
+        "Primary": {
           "Default": {
-            "value": "{Colors.Secondary.S10}",
+            "value": "{color.Primary.P1}",
+            "type": "color",
+            "description": "Default Brand Color"
+          },
+          "Hover": {
+            "value": "{color.Interaction.Hover}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{color.Secondary.S10}",
             "type": "color"
           }
         },
-        "Success": {
-          "Default": {
-            "value": "{Colors.Secondary.S5}",
+        "Surface": {
+          "Hover": {
+            "value": "{color.Monochrome.MC2}",
             "type": "color"
+          },
+          "Default": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{color.Monochrome.MC3}",
+            "type": "color"
+          }
+        },
+        "Basic": {
+          "secondry": {
+            "value": "{color.Monochrome.MC2}",
+            "type": "color"
+          },
+          "Default": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color"
+          },
+          "teratary": {
+            "value": "{color.Monochrome.MC3}",
+            "type": "color"
+          },
+          "quaternary": {
+            "value": "{color.Monochrome.MC4}",
+            "type": "color"
+          }
+        },
+        "Neutrals": {
+          "Default": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color"
+          }
+        },
+        "State": {
+          "Error": {
+            "Default": {
+              "value": "{color.Secondary.S10}",
+              "type": "color"
+            }
+          },
+          "Success": {
+            "Default": {
+              "value": "{color.Secondary.S5}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{color.Interaction.Green2}",
+              "type": "color"
+            }
           },
           "Pressed": {
-            "value": "{Colors.Interaction.Green2}",
-            "type": "color"
+            "Primary": {
+              "value": "{color.Interaction.Pressed}",
+              "type": "color"
+            },
+            "SButton": {
+              "value": "{color.Interaction.grey2}",
+              "type": "color"
+            }
+          },
+          "Hover": {
+            "Default": {
+              "value": "{color.Interaction.Phover}",
+              "type": "color"
+            }
+          },
+          "Disabled": {
+            "White": {
+              "value": "{color.Interaction.PDisabled}",
+              "type": "color"
+            },
+            "SButton": {
+              "value": "{color.Interaction.grey3}",
+              "type": "color"
+            }
           }
-        },
-        "Pressed": {
-          "Primary": {
-            "value": "{Colors.Interaction.Pressed}",
+        }
+      },
+      "Foreground": {
+        "Primary": {
+          "Default": {
+            "value": "{color.Primary.P1}",
             "type": "color"
           },
-          "SButton": {
-            "value": "{Colors.Interaction.grey2}",
+          "Hover": {
+            "value": "{color.Interaction.Hover}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{color.Secondary.S10}",
             "type": "color"
           }
         },
-        "Hover": {
+        "Secondry": {
           "Default": {
-            "value": "{Colors.Interaction.Phover}",
+            "value": "{color.Secondary.S1}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{color.Interaction.Hover2}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{color.Interaction.Active2}",
             "type": "color"
           }
         },
-        "Disabled": {
+        "Teratry": {
+          "Default": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{color.Monochrome.MC7}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{color.Monochrome.MC4}",
+            "type": "color"
+          }
+        },
+        "Default": {
+          "Neutral": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color"
+          },
+          "Faded": {
+            "value": "{color.Monochrome.MC5}",
+            "type": "color"
+          },
           "White": {
-            "value": "{Colors.Interaction.PDisabled}",
+            "value": "{color.Monochrome.MC1}",
+            "type": "color"
+          }
+        },
+        "State": {
+          "Error": {
+            "Default": {
+              "value": "{color.Secondary.S10}",
+              "type": "color"
+            }
+          },
+          "Success": {
+            "Default": {
+              "value": "{color.Secondary.S5}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Border": {
+        "Default": {
+          "Primary": {
+            "value": "{color.Monochrome.MC2}",
             "type": "color"
           },
-          "SButton": {
-            "value": "{Colors.Interaction.grey3}",
+          "Secondry": {
+            "value": "{color.Monochrome.MC3}",
             "type": "color"
-          }
-        }
-      }
-    },
-    "Foreground": {
-      "Primary": {
-        "Default": {
-          "value": "{Colors.Primary.P1}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Colors.Interaction.Hover}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Colors.Secondary.S10}",
-          "type": "color"
-        }
-      },
-      "Secondry": {
-        "Default": {
-          "value": "{Colors.Secondary.S1}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Colors.Interaction.Hover2}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Colors.Interaction.Active2}",
-          "type": "color"
-        }
-      },
-      "Teratry": {
-        "Default": {
-          "value": "{Colors.Monochrome.MC6}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Colors.Monochrome.MC7}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Colors.Monochrome.MC4}",
-          "type": "color"
-        }
-      },
-      "Default": {
-        "Neutral": {
-          "value": "{Colors.Monochrome.MC6}",
-          "type": "color"
-        },
-        "Faded": {
-          "value": "{Colors.Monochrome.MC5}",
-          "type": "color"
-        },
-        "White": {
-          "value": "{Colors.Monochrome.MC1}",
-          "type": "color"
-        }
-      },
-      "State": {
-        "Error": {
-          "Default": {
-            "value": "{Colors.Secondary.S10}",
+          },
+          "White": {
+            "value": "{color.Monochrome.MC1}",
             "type": "color"
           }
         },
-        "Success": {
-          "Default": {
-            "value": "{Colors.Secondary.S5}",
+        "Accent": {
+          "Highlighted": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color"
+          },
+          "Brand": {
+            "value": "{color.Primary.P1}",
+            "type": "color"
+          },
+          "Focused": {
+            "value": "{color.Secondary.S8}",
+            "type": "color"
+          }
+        }
+      },
+      "Text": {
+        "Default": {
+          "Brand": {
+            "value": "{color.Primary.P1}",
+            "type": "color"
+          },
+          "White": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color"
+          },
+          "Secondry": {
+            "value": "{color.Monochrome.MC5}",
+            "type": "color"
+          },
+          "Neutral": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color"
+          }
+        },
+        "Link": {
+          "Hover": {
+            "value": "{color.Interaction.Active}",
+            "type": "color"
+          },
+          "Visited": {
+            "value": "{color.Secondary.S6}",
             "type": "color"
           }
         }
       }
     },
     "Border": {
-      "Default": {
-        "Primary": {
-          "value": "{Colors.Monochrome.MC2}",
-          "type": "color"
-        },
-        "Secondry": {
-          "value": "{Colors.Monochrome.MC3}",
-          "type": "color"
-        },
-        "White": {
-          "value": "{Colors.Monochrome.MC1}",
-          "type": "color"
-        }
-      },
-      "Accent": {
-        "Highlighted": {
-          "value": "{Colors.Monochrome.MC6}",
-          "type": "color"
-        },
-        "Brand": {
-          "value": "{Colors.Primary.P1}",
-          "type": "color"
-        },
-        "Focused": {
-          "value": "{Colors.Secondary.S8}",
-          "type": "color"
-        }
-      },
       "default": {
         "value": "{borderRadius.BR-2}",
         "type": "borderRadius"
@@ -1081,36 +1115,6 @@
         }
       }
     },
-    "Text": {
-      "Default": {
-        "Brand": {
-          "value": "{Colors.Primary.P1}",
-          "type": "color"
-        },
-        "White": {
-          "value": "{Colors.Monochrome.MC1}",
-          "type": "color"
-        },
-        "Secondry": {
-          "value": "{Colors.Monochrome.MC5}",
-          "type": "color"
-        },
-        "Neutral": {
-          "value": "{Colors.Monochrome.MC6}",
-          "type": "color"
-        }
-      },
-      "Link": {
-        "Hover": {
-          "value": "{Colors.Interaction.Active}",
-          "type": "color"
-        },
-        "Visited": {
-          "value": "{Colors.Secondary.S6}",
-          "type": "color"
-        }
-      }
-    },
     "Elevation": {
       "value": {
         "x": "0",
@@ -1127,7 +1131,7 @@
         "value": {
           "width": "2",
           "style": "solid",
-          "color": "{Border.Accent.Highlighted}"
+          "color": "{color.Border.Accent.Highlighted}"
         },
         "type": "border"
       }
