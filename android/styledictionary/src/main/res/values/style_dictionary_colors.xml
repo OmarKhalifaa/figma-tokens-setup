@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 10 Jan 2024 21:38:55 GMT
+-->
+<resources>
+  <color name="color_primary_p1">#ffe60000</color>
+  <color name="color_primary_p2">#ffffffff</color>
+  <color name="color_primary_p3">#ff4a4d4e</color>
+  <color name="color_primary_p4">#ff25282b</color>
+  <color name="color_secondary_s1">#ff00697c</color>
+  <color name="color_secondary_s2">#ff5e2750</color>
+  <color name="color_secondary_s3">#ffeb6100</color>
+  <color name="color_secondary_s4">#fffecb00</color>
+  <color name="color_secondary_s5">#ff008a00</color>
+  <color name="color_secondary_s6">#ff9c2aa0</color>
+  <color name="color_secondary_s7">#ff005ea5</color>
+  <color name="color_secondary_s8">#ff0096ad</color>
+  <color name="color_secondary_s9">#ffbebebe</color>
+  <color name="color_secondary_s10">#ffbd0000</color>
+  <color name="color_monochrome_mc1">#ffffffff</color>
+  <color name="color_monochrome_mc2">#fff2f2f2</color>
+  <color name="color_monochrome_mc3">#ffbebebe</color>
+  <color name="color_monochrome_mc4">#ff7e7e7e</color>
+  <color name="color_monochrome_mc5">#ff262626</color>
+  <color name="color_monochrome_mc6">#ff0d0d0d</color>
+  <color name="color_monochrome_mc7">#ff1a1a1a</color>
+  <color name="color_transparent_op1">#26ffffff</color>
+  <color name="color_transparent_op2">#4dffffff</color>
+  <color name="color_transparent_op3">#bfffffff</color>
+  <color name="color_transparent_op4">#260d0d0d</color>
+  <color name="color_transparent_op5">#4d0d0d0d</color>
+  <color name="color_transparent_op6">#bf0d0d0d</color>
+  <color name="color_interaction_active">#ffb80000</color>
+  <color name="color_interaction_hover">#ffcf0000</color>
+  <color name="color_interaction_active2">#ff005463</color>
+  <color name="color_interaction_hover2">#ff005f70</color>
+  <color name="color_interaction_active3">#ffbc4e00</color>
+  <color name="color_interaction_hover3">#ffd45700</color>
+  <color name="color_interaction_pressed">#ffa10000</color>
+  <color name="color_interaction_phover">#ffc30000</color>
+  <color name="color_interaction_p_disabled">#ffed9696</color>
+  <color name="color_interaction_green2">#ff006100</color>
+  <color name="color_interaction_grey2">#ff565656</color>
+  <color name="color_interaction_grey3">#ff979797</color>
+  <color name="color_background_primary_default">#ffe60000</color>
+  <color name="color_background_primary_hover">#ffcf0000</color>
+  <color name="color_background_primary_active">#ffbd0000</color>
+  <color name="color_background_surface_hover">#fff2f2f2</color>
+  <color name="color_background_surface_default">#ffffffff</color>
+  <color name="color_background_surface_active">#ffbebebe</color>
+  <color name="color_background_basic_secondry">#fff2f2f2</color>
+  <color name="color_background_basic_default">#ffffffff</color>
+  <color name="color_background_basic_teratary">#ffbebebe</color>
+  <color name="color_background_basic_quaternary">#ff7e7e7e</color>
+  <color name="color_background_neutrals_default">#ff0d0d0d</color>
+  <color name="color_background_state_error_default">#ffbd0000</color>
+  <color name="color_background_state_success_default">#ff008a00</color>
+  <color name="color_background_state_success_pressed">#ff006100</color>
+  <color name="color_background_state_pressed_primary">#ffa10000</color>
+  <color name="color_background_state_pressed_s_button">#ff565656</color>
+  <color name="color_background_state_hover_default">#ffc30000</color>
+  <color name="color_background_state_disabled_white">#ffed9696</color>
+  <color name="color_background_state_disabled_s_button">#ff979797</color>
+  <color name="color_foreground_primary_default">#ffe60000</color>
+  <color name="color_foreground_primary_hover">#ffcf0000</color>
+  <color name="color_foreground_primary_active">#ffbd0000</color>
+  <color name="color_foreground_secondry_default">#ff00697c</color>
+  <color name="color_foreground_secondry_hover">#ff005f70</color>
+  <color name="color_foreground_secondry_active">#ff005463</color>
+  <color name="color_foreground_teratry_default">#ff0d0d0d</color>
+  <color name="color_foreground_teratry_hover">#ff1a1a1a</color>
+  <color name="color_foreground_teratry_active">#ff7e7e7e</color>
+  <color name="color_foreground_default_neutral">#ff0d0d0d</color>
+  <color name="color_foreground_default_faded">#ff262626</color>
+  <color name="color_foreground_default_white">#ffffffff</color>
+  <color name="color_foreground_state_error_default">#ffbd0000</color>
+  <color name="color_foreground_state_success_default">#ff008a00</color>
+  <color name="color_border_default_primary">#fff2f2f2</color>
+  <color name="color_border_default_secondry">#ffbebebe</color>
+  <color name="color_border_default_white">#ffffffff</color>
+  <color name="color_border_accent_highlighted">#ff0d0d0d</color>
+  <color name="color_border_accent_brand">#ffe60000</color>
+  <color name="color_border_accent_focused">#ff0096ad</color>
+  <color name="color_text_default_brand">#ffe60000</color>
+  <color name="color_text_default_white">#ffffffff</color>
+  <color name="color_text_default_secondry">#ff262626</color>
+  <color name="color_text_default_neutral">#ff0d0d0d</color>
+  <color name="color_text_link_hover">#ffb80000</color>
+  <color name="color_text_link_visited">#ff9c2aa0</color>
+  
+</resources>

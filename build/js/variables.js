@@ -1,0 +1,50 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 10 Jan 2024 20:56:02 GMT
+ */
+
+export const ColorPrimaryP1 = "#e60000";
+export const ColorPrimaryP2 = "#ffffff";
+export const ColorPrimaryP3 = "#4a4d4e";
+export const ColorPrimaryP4 = "#25282b";
+export const ColorSecondaryS1 = "#00697c";
+export const ColorSecondaryS2 = "#5e2750";
+export const ColorSecondaryS3 = "#eb6100";
+export const ColorSecondaryS4 = "#fecb00";
+export const ColorSecondaryS5 = "#008a00";
+export const ColorSecondaryS6 = "#9c2aa0";
+export const ColorSecondaryS7 = "#005ea5";
+export const ColorSecondaryS8 = "#0096ad";
+export const ColorSecondaryS9 = "#bebebe";
+export const ColorSecondaryS10 = "#bd0000";
+export const ColorMonochromeMc1 = "#ffffff";
+export const ColorMonochromeMc2 = "#f2f2f2";
+export const ColorMonochromeMc3 = "#bebebe";
+export const ColorMonochromeMc4 = "#7e7e7e";
+export const ColorMonochromeMc5 = "#262626";
+export const ColorMonochromeMc6 = "#0d0d0d";
+export const ColorMonochromeMc7 = "#1a1a1a";
+export const ColorGradientGr1 = "#000000";
+export const ColorGradientGr2 = "#000000";
+export const ColorGradientGr3 = "#000000";
+export const ColorTransparentOp1 = "#ffffff";
+export const ColorTransparentOp2 = "#ffffff";
+export const ColorTransparentOp3 = "#ffffff";
+export const ColorTransparentOp4 = "#0d0d0d";
+export const ColorTransparentOp5 = "#0d0d0d";
+export const ColorTransparentOp6 = "#0d0d0d";
+export const ColorInteractionActive = "#b80000";
+export const ColorInteractionHover = "#cf0000";
+export const ColorInteractionActive2 = "#005463";
+export const ColorInteractionHover2 = "#005f70";
+export const ColorInteractionActive3 = "#bc4e00";
+export const ColorInteractionHover3 = "#d45700";
+export const ColorInteractionPressed = "#a10000";
+export const ColorInteractionPhover = "#c30000";
+export const ColorInteractionPDisabled = "#ed9696";
+export const ColorInteractionGreen2 = "#006100";
+export const ColorInteractionGrey2 = "#565656";
+export const ColorInteractionGrey3 = "#979797";
+export const ColorBackgroundPrimaryDefault = "#1a1a1a";
+export const ColorBackgroundPrimaryHover = "#ffffff";
+export const ColorBackgroundPrimaryActive = "#0d0d0d";

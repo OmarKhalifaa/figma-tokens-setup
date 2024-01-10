@@ -1,28 +1,43 @@
 {
   "source": [
-    "**/*.tokens.json"
+    "*.json"
   ],
   "platforms": {
-    "css": {
-      "transformGroup": "css",
-      "prefix": "sd",
-      "buildPath": "build/css/",
-      "files": [
-        {
-          "destination": "_variables.css",
-          "format": "css/variables"
+    "ios": {
+      "transformGroup": "ios",
+      "buildPath": "ios/Classes/Generated/",
+      "prefix": "StyleDictionary",
+      "files": [{
+        "destination": "StyleDictionaryColor.h",
+        "format": "ios/colors.h",
+        "className": "StyleDictionaryColor",
+        "type": "StyleDictionaryColorName",
+        "filter": {
+          "attributes": {
+            "category": "color"
+          }
         }
-      ]
+      },{
+        "destination": "StyleDictionaryColor.m",
+        "format": "ios/colors.m",
+        "className": "StyleDictionaryColor",
+        "type": "StyleDictionaryColorName",
+        "filter": {
+          "attributes": {
+            "category": "color"
+          }
+        }
+      }
+    ]
     },
-    "js": {
-      "transformGroup": "js",
-      "buildPath": "build/js/",
-      "files": [
-        {
-          "destination": "variables.js",
-          "format": "javascript/es6"
-        }
-      ]
+
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "android/styledictionary/src/main/res/values/",
+      "files": [{
+        "destination": "style_dictionary_colors.xml",
+        "format": "android/colors"
+      }]
     }
   }
 }

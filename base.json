@@ -1,0 +1,171 @@
+{
+  "color": {
+    "Primary": {
+      "P1": {
+        "value": "#e60000",
+        "type": "color"
+      },
+      "P2": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "P3": {
+        "value": "#4a4d4e",
+        "type": "color"
+      },
+      "P4": {
+        "value": "#25282b",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "S1": {
+        "value": "#00697c",
+        "type": "color"
+      },
+      "S2": {
+        "value": "#5e2750",
+        "type": "color"
+      },
+      "S3": {
+        "value": "#eb6100",
+        "type": "color"
+      },
+      "S4": {
+        "value": "#fecb00",
+        "type": "color"
+      },
+      "S5": {
+        "value": "#008a00",
+        "type": "color"
+      },
+      "S6": {
+        "value": "#9c2aa0",
+        "type": "color"
+      },
+      "S7": {
+        "value": "#005ea5",
+        "type": "color"
+      },
+      "S8": {
+        "value": "#0096ad",
+        "type": "color"
+      },
+      "S9": {
+        "value": "#bebebe",
+        "type": "color"
+      },
+      "S10": {
+        "value": "#BD0000",
+        "type": "color"
+      }
+    },
+    "Monochrome": {
+      "MC1": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "MC2": {
+        "value": "#f2f2f2",
+        "type": "color"
+      },
+      "MC3": {
+        "value": "#bebebe",
+        "type": "color"
+      },
+      "MC4": {
+        "value": "#7e7e7e",
+        "type": "color"
+      },
+      "MC5": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "MC6": {
+        "value": "#0d0d0d",
+        "type": "color"
+      },
+      "MC7": {
+        "value": "#1A1A1A",
+        "type": "color"
+      }
+    },
+   
+    "Transparent": {
+      "OP1": {
+        "value": "#ffffff26",
+        "type": "color"
+      },
+      "OP2": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "OP3": {
+        "value": "#ffffffbf",
+        "type": "color"
+      },
+      "OP4": {
+        "value": "#0d0d0d26",
+        "type": "color"
+      },
+      "OP5": {
+        "value": "#0d0d0d4d",
+        "type": "color"
+      },
+      "OP6": {
+        "value": "#0d0d0dbf",
+        "type": "color"
+      }
+    },
+    "Interaction": {
+      "Active": {
+        "value": "#B80000",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#CF0000",
+        "type": "color"
+      },
+      "Active2": {
+        "value": "#005463",
+        "type": "color"
+      },
+      "Hover2": {
+        "value": "#005F70",
+        "type": "color"
+      },
+      "Active3": {
+        "value": "#BC4E00",
+        "type": "color"
+      },
+      "Hover3": {
+        "value": "#D45700",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "#A10000",
+        "type": "color"
+      },
+      "Phover": {
+        "value": "#C30000",
+        "type": "color"
+      },
+      "PDisabled": {
+        "value": "#ED9696",
+        "type": "color"
+      },
+      "Green2": {
+        "value": "#006100",
+        "type": "color"
+      },
+      "grey2": {
+        "value": "#565656",
+        "type": "color"
+      },
+      "grey3": {
+        "value": "#979797",
+        "type": "color"
+      }
+    }
+  }
+}

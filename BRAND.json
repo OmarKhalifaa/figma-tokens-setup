@@ -1,0 +1,280 @@
+{
+  "color": {
+    "Background": {
+      "Primary": {
+        "Default": {
+          "value": "{color.Primary.P1}",
+          "type": "color",
+          "description": "Default Brand Color",
+          "failedToResolve": true
+        },
+        "Hover": {
+          "value": "{color.Interaction.Hover}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Active": {
+          "value": "{color.Secondary.S10}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Surface": {
+        "Hover": {
+          "value": "{color.Monochrome.MC2}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Default": {
+          "value": "{color.Monochrome.MC1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Active": {
+          "value": "{color.Monochrome.MC3}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Basic": {
+        "secondry": {
+          "value": "{color.Monochrome.MC2}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Default": {
+          "value": "{color.Monochrome.MC1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "teratary": {
+          "value": "{color.Monochrome.MC3}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "quaternary": {
+          "value": "{color.Monochrome.MC4}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Neutrals": {
+        "Default": {
+          "value": "{color.Monochrome.MC6}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "State": {
+        "Error": {
+          "Default": {
+            "value": "{color.Secondary.S10}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        },
+        "Success": {
+          "Default": {
+            "value": "{color.Secondary.S5}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "Pressed": {
+            "value": "{color.Interaction.Green2}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        },
+        "Pressed": {
+          "Primary": {
+            "value": "{color.Interaction.Pressed}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "SButton": {
+            "value": "{color.Interaction.grey2}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        },
+        "Hover": {
+          "Default": {
+            "value": "{color.Interaction.Phover}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        },
+        "Disabled": {
+          "White": {
+            "value": "{color.Interaction.PDisabled}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "SButton": {
+            "value": "{color.Interaction.grey3}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        }
+      }
+    },
+    "Foreground": {
+      "Primary": {
+        "Default": {
+          "value": "{color.Primary.P1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Hover": {
+          "value": "{color.Interaction.Hover}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Active": {
+          "value": "{color.Secondary.S10}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Secondry": {
+        "Default": {
+          "value": "{color.Secondary.S1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Hover": {
+          "value": "{color.Interaction.Hover2}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Active": {
+          "value": "{color.Interaction.Active2}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Teratry": {
+        "Default": {
+          "value": "{color.Monochrome.MC6}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Hover": {
+          "value": "{color.Monochrome.MC7}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Active": {
+          "value": "{color.Monochrome.MC4}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Default": {
+        "Neutral": {
+          "value": "{color.Monochrome.MC6}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Faded": {
+          "value": "{color.Monochrome.MC5}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "White": {
+          "value": "{color.Monochrome.MC1}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "State": {
+        "Error": {
+          "Default": {
+            "value": "{color.Secondary.S10}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        },
+        "Success": {
+          "Default": {
+            "value": "{color.Secondary.S5}",
+            "type": "color",
+            "failedToResolve": true
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Primary": {
+          "value": "{color.Monochrome.MC2}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Secondry": {
+          "value": "{color.Monochrome.MC3}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "White": {
+          "value": "{color.Monochrome.MC1}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Accent": {
+        "Highlighted": {
+          "value": "{color.Monochrome.MC6}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Brand": {
+          "value": "{color.Primary.P1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Focused": {
+          "value": "{color.Secondary.S8}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      }
+    },
+    "Text": {
+      "Default": {
+        "Brand": {
+          "value": "{color.Primary.P1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "White": {
+          "value": "{color.Monochrome.MC1}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Secondry": {
+          "value": "{color.Monochrome.MC5}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Neutral": {
+          "value": "{color.Monochrome.MC6}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      },
+      "Link": {
+        "Hover": {
+          "value": "{color.Interaction.Active}",
+          "type": "color",
+          "failedToResolve": true
+        },
+        "Visited": {
+          "value": "{color.Secondary.S6}",
+          "type": "color",
+          "failedToResolve": true
+        }
+      }
+    }
+  }
+}

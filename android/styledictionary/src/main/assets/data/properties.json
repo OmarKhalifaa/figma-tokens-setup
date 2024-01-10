@@ -1,0 +1,2288 @@
+{
+  "color": {
+    "Primary": {
+      "P1": {
+        "value": "#ffe60000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#e60000",
+          "type": "color"
+        },
+        "name": "color_primary_p1",
+        "attributes": {
+          "category": "color",
+          "type": "Primary",
+          "item": "P1"
+        },
+        "path": [
+          "color",
+          "Primary",
+          "P1"
+        ]
+      },
+      "P2": {
+        "value": "#ffffffff",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "name": "color_primary_p2",
+        "attributes": {
+          "category": "color",
+          "type": "Primary",
+          "item": "P2"
+        },
+        "path": [
+          "color",
+          "Primary",
+          "P2"
+        ]
+      },
+      "P3": {
+        "value": "#ff4a4d4e",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#4a4d4e",
+          "type": "color"
+        },
+        "name": "color_primary_p3",
+        "attributes": {
+          "category": "color",
+          "type": "Primary",
+          "item": "P3"
+        },
+        "path": [
+          "color",
+          "Primary",
+          "P3"
+        ]
+      },
+      "P4": {
+        "value": "#ff25282b",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#25282b",
+          "type": "color"
+        },
+        "name": "color_primary_p4",
+        "attributes": {
+          "category": "color",
+          "type": "Primary",
+          "item": "P4"
+        },
+        "path": [
+          "color",
+          "Primary",
+          "P4"
+        ]
+      }
+    },
+    "Secondary": {
+      "S1": {
+        "value": "#ff00697c",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#00697c",
+          "type": "color"
+        },
+        "name": "color_secondary_s1",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S1"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S1"
+        ]
+      },
+      "S2": {
+        "value": "#ff5e2750",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#5e2750",
+          "type": "color"
+        },
+        "name": "color_secondary_s2",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S2"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S2"
+        ]
+      },
+      "S3": {
+        "value": "#ffeb6100",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#eb6100",
+          "type": "color"
+        },
+        "name": "color_secondary_s3",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S3"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S3"
+        ]
+      },
+      "S4": {
+        "value": "#fffecb00",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#fecb00",
+          "type": "color"
+        },
+        "name": "color_secondary_s4",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S4"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S4"
+        ]
+      },
+      "S5": {
+        "value": "#ff008a00",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#008a00",
+          "type": "color"
+        },
+        "name": "color_secondary_s5",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S5"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S5"
+        ]
+      },
+      "S6": {
+        "value": "#ff9c2aa0",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#9c2aa0",
+          "type": "color"
+        },
+        "name": "color_secondary_s6",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S6"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S6"
+        ]
+      },
+      "S7": {
+        "value": "#ff005ea5",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#005ea5",
+          "type": "color"
+        },
+        "name": "color_secondary_s7",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S7"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S7"
+        ]
+      },
+      "S8": {
+        "value": "#ff0096ad",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#0096ad",
+          "type": "color"
+        },
+        "name": "color_secondary_s8",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S8"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S8"
+        ]
+      },
+      "S9": {
+        "value": "#ffbebebe",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#bebebe",
+          "type": "color"
+        },
+        "name": "color_secondary_s9",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S9"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S9"
+        ]
+      },
+      "S10": {
+        "value": "#ffbd0000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#BD0000",
+          "type": "color"
+        },
+        "name": "color_secondary_s10",
+        "attributes": {
+          "category": "color",
+          "type": "Secondary",
+          "item": "S10"
+        },
+        "path": [
+          "color",
+          "Secondary",
+          "S10"
+        ]
+      }
+    },
+    "Monochrome": {
+      "MC1": {
+        "value": "#ffffffff",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc1",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC1"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC1"
+        ]
+      },
+      "MC2": {
+        "value": "#fff2f2f2",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc2",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC2"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC2"
+        ]
+      },
+      "MC3": {
+        "value": "#ffbebebe",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#bebebe",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc3",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC3"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC3"
+        ]
+      },
+      "MC4": {
+        "value": "#ff7e7e7e",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#7e7e7e",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc4",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC4"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC4"
+        ]
+      },
+      "MC5": {
+        "value": "#ff262626",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc5",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC5"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC5"
+        ]
+      },
+      "MC6": {
+        "value": "#ff0d0d0d",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#0d0d0d",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc6",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC6"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC6"
+        ]
+      },
+      "MC7": {
+        "value": "#ff1a1a1a",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#1A1A1A",
+          "type": "color"
+        },
+        "name": "color_monochrome_mc7",
+        "attributes": {
+          "category": "color",
+          "type": "Monochrome",
+          "item": "MC7"
+        },
+        "path": [
+          "color",
+          "Monochrome",
+          "MC7"
+        ]
+      }
+    },
+    "Transparent": {
+      "OP1": {
+        "value": "#26ffffff",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff26",
+          "type": "color"
+        },
+        "name": "color_transparent_op1",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP1"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP1"
+        ]
+      },
+      "OP2": {
+        "value": "#4dffffff",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff4d",
+          "type": "color"
+        },
+        "name": "color_transparent_op2",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP2"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP2"
+        ]
+      },
+      "OP3": {
+        "value": "#bfffffff",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffffbf",
+          "type": "color"
+        },
+        "name": "color_transparent_op3",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP3"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP3"
+        ]
+      },
+      "OP4": {
+        "value": "#260d0d0d",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#0d0d0d26",
+          "type": "color"
+        },
+        "name": "color_transparent_op4",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP4"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP4"
+        ]
+      },
+      "OP5": {
+        "value": "#4d0d0d0d",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#0d0d0d4d",
+          "type": "color"
+        },
+        "name": "color_transparent_op5",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP5"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP5"
+        ]
+      },
+      "OP6": {
+        "value": "#bf0d0d0d",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#0d0d0dbf",
+          "type": "color"
+        },
+        "name": "color_transparent_op6",
+        "attributes": {
+          "category": "color",
+          "type": "Transparent",
+          "item": "OP6"
+        },
+        "path": [
+          "color",
+          "Transparent",
+          "OP6"
+        ]
+      }
+    },
+    "Interaction": {
+      "Active": {
+        "value": "#ffb80000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#B80000",
+          "type": "color"
+        },
+        "name": "color_interaction_active",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Active"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Active"
+        ]
+      },
+      "Hover": {
+        "value": "#ffcf0000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#CF0000",
+          "type": "color"
+        },
+        "name": "color_interaction_hover",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Hover"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Hover"
+        ]
+      },
+      "Active2": {
+        "value": "#ff005463",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#005463",
+          "type": "color"
+        },
+        "name": "color_interaction_active2",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Active2"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Active2"
+        ]
+      },
+      "Hover2": {
+        "value": "#ff005f70",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#005F70",
+          "type": "color"
+        },
+        "name": "color_interaction_hover2",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Hover2"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Hover2"
+        ]
+      },
+      "Active3": {
+        "value": "#ffbc4e00",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#BC4E00",
+          "type": "color"
+        },
+        "name": "color_interaction_active3",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Active3"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Active3"
+        ]
+      },
+      "Hover3": {
+        "value": "#ffd45700",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#D45700",
+          "type": "color"
+        },
+        "name": "color_interaction_hover3",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Hover3"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Hover3"
+        ]
+      },
+      "Pressed": {
+        "value": "#ffa10000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#A10000",
+          "type": "color"
+        },
+        "name": "color_interaction_pressed",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Pressed"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Pressed"
+        ]
+      },
+      "Phover": {
+        "value": "#ffc30000",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#C30000",
+          "type": "color"
+        },
+        "name": "color_interaction_phover",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Phover"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Phover"
+        ]
+      },
+      "PDisabled": {
+        "value": "#ffed9696",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#ED9696",
+          "type": "color"
+        },
+        "name": "color_interaction_p_disabled",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "PDisabled"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "PDisabled"
+        ]
+      },
+      "Green2": {
+        "value": "#ff006100",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#006100",
+          "type": "color"
+        },
+        "name": "color_interaction_green2",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "Green2"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "Green2"
+        ]
+      },
+      "grey2": {
+        "value": "#ff565656",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#565656",
+          "type": "color"
+        },
+        "name": "color_interaction_grey2",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "grey2"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "grey2"
+        ]
+      },
+      "grey3": {
+        "value": "#ff979797",
+        "type": "color",
+        "filePath": "base.json",
+        "isSource": true,
+        "original": {
+          "value": "#979797",
+          "type": "color"
+        },
+        "name": "color_interaction_grey3",
+        "attributes": {
+          "category": "color",
+          "type": "Interaction",
+          "item": "grey3"
+        },
+        "path": [
+          "color",
+          "Interaction",
+          "grey3"
+        ]
+      }
+    },
+    "Background": {
+      "Primary": {
+        "Default": {
+          "value": "#ffe60000",
+          "type": "color",
+          "description": "Default Brand Color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Primary.P1}",
+            "type": "color",
+            "description": "Default Brand Color",
+            "failedToResolve": true
+          },
+          "name": "color_background_primary_default",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Primary",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Primary",
+            "Default"
+          ]
+        },
+        "Hover": {
+          "value": "#ffcf0000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Interaction.Hover}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_primary_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Primary",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Primary",
+            "Hover"
+          ]
+        },
+        "Active": {
+          "value": "#ffbd0000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Secondary.S10}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_primary_active",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Primary",
+            "subitem": "Active"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Primary",
+            "Active"
+          ]
+        }
+      },
+      "Surface": {
+        "Hover": {
+          "value": "#fff2f2f2",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC2}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_surface_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Surface",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Surface",
+            "Hover"
+          ]
+        },
+        "Default": {
+          "value": "#ffffffff",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_surface_default",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Surface",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Surface",
+            "Default"
+          ]
+        },
+        "Active": {
+          "value": "#ffbebebe",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC3}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_surface_active",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Surface",
+            "subitem": "Active"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Surface",
+            "Active"
+          ]
+        }
+      },
+      "Basic": {
+        "secondry": {
+          "value": "#fff2f2f2",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC2}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_basic_secondry",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Basic",
+            "subitem": "secondry"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Basic",
+            "secondry"
+          ]
+        },
+        "Default": {
+          "value": "#ffffffff",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_basic_default",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Basic",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Basic",
+            "Default"
+          ]
+        },
+        "teratary": {
+          "value": "#ffbebebe",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC3}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_basic_teratary",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Basic",
+            "subitem": "teratary"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Basic",
+            "teratary"
+          ]
+        },
+        "quaternary": {
+          "value": "#ff7e7e7e",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC4}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_basic_quaternary",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Basic",
+            "subitem": "quaternary"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Basic",
+            "quaternary"
+          ]
+        }
+      },
+      "Neutrals": {
+        "Default": {
+          "value": "#ff0d0d0d",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_background_neutrals_default",
+          "attributes": {
+            "category": "color",
+            "type": "Background",
+            "item": "Neutrals",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Background",
+            "Neutrals",
+            "Default"
+          ]
+        }
+      },
+      "State": {
+        "Error": {
+          "Default": {
+            "value": "#ffbd0000",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Secondary.S10}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_error_default",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Error",
+              "state": "Default"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Error",
+              "Default"
+            ]
+          }
+        },
+        "Success": {
+          "Default": {
+            "value": "#ff008a00",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Secondary.S5}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_success_default",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Success",
+              "state": "Default"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Success",
+              "Default"
+            ]
+          },
+          "Pressed": {
+            "value": "#ff006100",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.Green2}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_success_pressed",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Success",
+              "state": "Pressed"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Success",
+              "Pressed"
+            ]
+          }
+        },
+        "Pressed": {
+          "Primary": {
+            "value": "#ffa10000",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.Pressed}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_pressed_primary",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Pressed",
+              "state": "Primary"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Pressed",
+              "Primary"
+            ]
+          },
+          "SButton": {
+            "value": "#ff565656",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.grey2}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_pressed_s_button",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Pressed",
+              "state": "SButton"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Pressed",
+              "SButton"
+            ]
+          }
+        },
+        "Hover": {
+          "Default": {
+            "value": "#ffc30000",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.Phover}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_hover_default",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Hover",
+              "state": "Default"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Hover",
+              "Default"
+            ]
+          }
+        },
+        "Disabled": {
+          "White": {
+            "value": "#ffed9696",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.PDisabled}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_disabled_white",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Disabled",
+              "state": "White"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Disabled",
+              "White"
+            ]
+          },
+          "SButton": {
+            "value": "#ff979797",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Interaction.grey3}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_background_state_disabled_s_button",
+            "attributes": {
+              "category": "color",
+              "type": "Background",
+              "item": "State",
+              "subitem": "Disabled",
+              "state": "SButton"
+            },
+            "path": [
+              "color",
+              "Background",
+              "State",
+              "Disabled",
+              "SButton"
+            ]
+          }
+        }
+      }
+    },
+    "Foreground": {
+      "Primary": {
+        "Default": {
+          "value": "#ffe60000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Primary.P1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_primary_default",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Primary",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Primary",
+            "Default"
+          ]
+        },
+        "Hover": {
+          "value": "#ffcf0000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Interaction.Hover}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_primary_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Primary",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Primary",
+            "Hover"
+          ]
+        },
+        "Active": {
+          "value": "#ffbd0000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Secondary.S10}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_primary_active",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Primary",
+            "subitem": "Active"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Primary",
+            "Active"
+          ]
+        }
+      },
+      "Secondry": {
+        "Default": {
+          "value": "#ff00697c",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Secondary.S1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_secondry_default",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Secondry",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Secondry",
+            "Default"
+          ]
+        },
+        "Hover": {
+          "value": "#ff005f70",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Interaction.Hover2}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_secondry_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Secondry",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Secondry",
+            "Hover"
+          ]
+        },
+        "Active": {
+          "value": "#ff005463",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Interaction.Active2}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_secondry_active",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Secondry",
+            "subitem": "Active"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Secondry",
+            "Active"
+          ]
+        }
+      },
+      "Teratry": {
+        "Default": {
+          "value": "#ff0d0d0d",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_teratry_default",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Teratry",
+            "subitem": "Default"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Teratry",
+            "Default"
+          ]
+        },
+        "Hover": {
+          "value": "#ff1a1a1a",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC7}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_teratry_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Teratry",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Teratry",
+            "Hover"
+          ]
+        },
+        "Active": {
+          "value": "#ff7e7e7e",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC4}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_teratry_active",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Teratry",
+            "subitem": "Active"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Teratry",
+            "Active"
+          ]
+        }
+      },
+      "Default": {
+        "Neutral": {
+          "value": "#ff0d0d0d",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_default_neutral",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Default",
+            "subitem": "Neutral"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Default",
+            "Neutral"
+          ]
+        },
+        "Faded": {
+          "value": "#ff262626",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC5}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_default_faded",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Default",
+            "subitem": "Faded"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Default",
+            "Faded"
+          ]
+        },
+        "White": {
+          "value": "#ffffffff",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_foreground_default_white",
+          "attributes": {
+            "category": "color",
+            "type": "Foreground",
+            "item": "Default",
+            "subitem": "White"
+          },
+          "path": [
+            "color",
+            "Foreground",
+            "Default",
+            "White"
+          ]
+        }
+      },
+      "State": {
+        "Error": {
+          "Default": {
+            "value": "#ffbd0000",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Secondary.S10}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_foreground_state_error_default",
+            "attributes": {
+              "category": "color",
+              "type": "Foreground",
+              "item": "State",
+              "subitem": "Error",
+              "state": "Default"
+            },
+            "path": [
+              "color",
+              "Foreground",
+              "State",
+              "Error",
+              "Default"
+            ]
+          }
+        },
+        "Success": {
+          "Default": {
+            "value": "#ff008a00",
+            "type": "color",
+            "failedToResolve": true,
+            "filePath": "BRAND.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.Secondary.S5}",
+              "type": "color",
+              "failedToResolve": true
+            },
+            "name": "color_foreground_state_success_default",
+            "attributes": {
+              "category": "color",
+              "type": "Foreground",
+              "item": "State",
+              "subitem": "Success",
+              "state": "Default"
+            },
+            "path": [
+              "color",
+              "Foreground",
+              "State",
+              "Success",
+              "Default"
+            ]
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Primary": {
+          "value": "#fff2f2f2",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC2}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_default_primary",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Default",
+            "subitem": "Primary"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Default",
+            "Primary"
+          ]
+        },
+        "Secondry": {
+          "value": "#ffbebebe",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC3}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_default_secondry",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Default",
+            "subitem": "Secondry"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Default",
+            "Secondry"
+          ]
+        },
+        "White": {
+          "value": "#ffffffff",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_default_white",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Default",
+            "subitem": "White"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Default",
+            "White"
+          ]
+        }
+      },
+      "Accent": {
+        "Highlighted": {
+          "value": "#ff0d0d0d",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_accent_highlighted",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Accent",
+            "subitem": "Highlighted"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Accent",
+            "Highlighted"
+          ]
+        },
+        "Brand": {
+          "value": "#ffe60000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Primary.P1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_accent_brand",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Accent",
+            "subitem": "Brand"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Accent",
+            "Brand"
+          ]
+        },
+        "Focused": {
+          "value": "#ff0096ad",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Secondary.S8}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_border_accent_focused",
+          "attributes": {
+            "category": "color",
+            "type": "Border",
+            "item": "Accent",
+            "subitem": "Focused"
+          },
+          "path": [
+            "color",
+            "Border",
+            "Accent",
+            "Focused"
+          ]
+        }
+      }
+    },
+    "Text": {
+      "Default": {
+        "Brand": {
+          "value": "#ffe60000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Primary.P1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_default_brand",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Default",
+            "subitem": "Brand"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Default",
+            "Brand"
+          ]
+        },
+        "White": {
+          "value": "#ffffffff",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC1}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_default_white",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Default",
+            "subitem": "White"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Default",
+            "White"
+          ]
+        },
+        "Secondry": {
+          "value": "#ff262626",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC5}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_default_secondry",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Default",
+            "subitem": "Secondry"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Default",
+            "Secondry"
+          ]
+        },
+        "Neutral": {
+          "value": "#ff0d0d0d",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Monochrome.MC6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_default_neutral",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Default",
+            "subitem": "Neutral"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Default",
+            "Neutral"
+          ]
+        }
+      },
+      "Link": {
+        "Hover": {
+          "value": "#ffb80000",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Interaction.Active}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_link_hover",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Link",
+            "subitem": "Hover"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Link",
+            "Hover"
+          ]
+        },
+        "Visited": {
+          "value": "#ff9c2aa0",
+          "type": "color",
+          "failedToResolve": true,
+          "filePath": "BRAND.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.Secondary.S6}",
+            "type": "color",
+            "failedToResolve": true
+          },
+          "name": "color_text_link_visited",
+          "attributes": {
+            "category": "color",
+            "type": "Text",
+            "item": "Link",
+            "subitem": "Visited"
+          },
+          "path": [
+            "color",
+            "Text",
+            "Link",
+            "Visited"
+          ]
+        }
+      }
+    }
+  },
+  "source": [
+    "*.json"
+  ],
+  "platforms": {
+    "ios": {
+      "transformGroup": "ios",
+      "buildPath": "ios/Classes/Generated/",
+      "prefix": "StyleDictionary",
+      "files": [
+        {
+          "destination": "StyleDictionaryColor.h",
+          "format": "ios/colors.h",
+          "className": "StyleDictionaryColor",
+          "type": "StyleDictionaryColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryColor.m",
+          "format": "ios/colors.m",
+          "className": "StyleDictionaryColor",
+          "type": "StyleDictionaryColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        }
+      ]
+    },
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "android/styledictionary/src/main/res/values/",
+      "files": [
+        {
+          "destination": "style_dictionary_colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "style_dictionary_font_dimens.xml",
+          "format": "android/fontDimens"
+        },
+        {
+          "destination": "style_dictionary_dimens.xml",
+          "format": "android/dimens"
+        },
+        {
+          "destination": "style_dictionary_integers.xml",
+          "format": "android/integers"
+        },
+        {
+          "destination": "style_dictionary_strings.xml",
+          "format": "android/strings"
+        }
+      ]
+    },
+    "android-asset": {
+      "transformGroup": "android",
+      "buildPath": "android/styledictionary/src/main/",
+      "files": [
+        {
+          "destination": "assets/data/properties.json",
+          "format": "json"
+        }
+      ],
+      "actions": [
+        "copy_assets"
+      ]
+    }
+  },
+  "name": "figma-tokens-setup",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "dependencies": {
+        "token-transformer": "^0.0.33"
+      }
+    },
+    "node_modules/token-transformer": {
+      "version": "0.0.33",
+      "resolved": "https://registry.npmjs.org/token-transformer/-/token-transformer-0.0.33.tgz",
+      "integrity": "sha512-0h7Cvo8trUcv6sZPyA+iNHsFEwIhN4FhXtYqgndHQNYub+dTDW8ZCQURBNDNa0PvJ8Xg2wqG1V/5WSwV0l6yOw==",
+      "dependencies": {
+        "yargs": "^17.6.2"
+      },
+      "bin": {
+        "token-transformer": "cli.js"
+      }
+    },
+    "node_modules/yargs": {
+      "version": "17.7.2",
+      "resolved": "https://registry.npmjs.org/yargs/-/yargs-17.7.2.tgz",
+      "integrity": "sha512-7dSzzRQ++CKnNI/krKnYRV7JKKPUXMEh61soaHKg9mrWEhzFWhFnxPxGl+69cD1Ou63C13NUPCnmIcrvqCuM6w==",
+      "dependencies": {
+        "cliui": "^8.0.1",
+        "escalade": "^3.1.1",
+        "get-caller-file": "^2.0.5",
+        "require-directory": "^2.1.1",
+        "string-width": "^4.2.3",
+        "y18n": "^5.0.5",
+        "yargs-parser": "^21.1.1"
+      },
+      "engines": {
+        "node": ">=12"
+      }
+    },
+    "node_modules/yargs/node_modules/ansi-regex": {
+      "version": "5.0.1",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz",
+      "integrity": "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/yargs/node_modules/ansi-styles": {
+      "version": "4.3.0",
+      "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz",
+      "integrity": "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==",
+      "dependencies": {
+        "color-convert": "^2.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/ansi-styles?sponsor=1"
+      }
+    },
+    "node_modules/yargs/node_modules/cliui": {
+      "version": "8.0.1",
+      "resolved": "https://registry.npmjs.org/cliui/-/cliui-8.0.1.tgz",
+      "integrity": "sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ==",
+      "dependencies": {
+        "string-width": "^4.2.0",
+        "strip-ansi": "^6.0.1",
+        "wrap-ansi": "^7.0.0"
+      },
+      "engines": {
+        "node": ">=12"
+      }
+    },
+    "node_modules/yargs/node_modules/color-convert": {
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz",
+      "integrity": "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==",
+      "dependencies": {
+        "color-name": "~1.1.4"
+      },
+      "engines": {
+        "node": ">=7.0.0"
+      }
+    },
+    "node_modules/yargs/node_modules/color-name": {
+      "version": "1.1.4",
+      "resolved": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz",
+      "integrity": "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA=="
+    },
+    "node_modules/yargs/node_modules/emoji-regex": {
+      "version": "8.0.0",
+      "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz",
+      "integrity": "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="
+    },
+    "node_modules/yargs/node_modules/escalade": {
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz",
+      "integrity": "sha512-k0er2gUkLf8O0zKJiAhmkTnJlTvINGv7ygDNPbeIsX/TJjGJZHuh9B2UxbsaEkmlEo9MfhrSzmhIlhRlI2GXnw==",
+      "engines": {
+        "node": ">=6"
+      }
+    },
+    "node_modules/yargs/node_modules/get-caller-file": {
+      "version": "2.0.5",
+      "resolved": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz",
+      "integrity": "sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==",
+      "engines": {
+        "node": "6.* || 8.* || >= 10.*"
+      }
+    },
+    "node_modules/yargs/node_modules/is-fullwidth-code-point": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz",
+      "integrity": "sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/yargs/node_modules/require-directory": {
+      "version": "2.1.1",
+      "resolved": "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz",
+      "integrity": "sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==",
+      "engines": {
+        "node": ">=0.10.0"
+      }
+    },
+    "node_modules/yargs/node_modules/string-width": {
+      "version": "4.2.3",
+      "resolved": "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz",
+      "integrity": "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==",
+      "dependencies": {
+        "emoji-regex": "^8.0.0",
+        "is-fullwidth-code-point": "^3.0.0",
+        "strip-ansi": "^6.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/yargs/node_modules/strip-ansi": {
+      "version": "6.0.1",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz",
+      "integrity": "sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==",
+      "dependencies": {
+        "ansi-regex": "^5.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/yargs/node_modules/wrap-ansi": {
+      "version": "7.0.0",
+      "resolved": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz",
+      "integrity": "sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==",
+      "dependencies": {
+        "ansi-styles": "^4.0.0",
+        "string-width": "^4.1.0",
+        "strip-ansi": "^6.0.0"
+      },
+      "engines": {
+        "node": ">=10"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/wrap-ansi?sponsor=1"
+      }
+    },
+    "node_modules/yargs/node_modules/y18n": {
+      "version": "5.0.8",
+      "resolved": "https://registry.npmjs.org/y18n/-/y18n-5.0.8.tgz",
+      "integrity": "sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA==",
+      "engines": {
+        "node": ">=10"
+      }
+    },
+    "node_modules/yargs/node_modules/yargs-parser": {
+      "version": "21.1.1",
+      "resolved": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz",
+      "integrity": "sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==",
+      "engines": {
+        "node": ">=12"
+      }
+    }
+  },
+  "dependencies": {
+    "token-transformer": "^0.0.33"
+  }
+}
