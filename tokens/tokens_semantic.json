@@ -2363,7 +2363,7 @@
         }
       },
       "Paragraph": {
-        "sm": {
+        "Footnote": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2401,7 +2401,7 @@
             "type": "typography"
           }
         },
-        "sm-underline": {
+        "Footnote-underline": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2525,7 +2525,7 @@
         }
       },
       "Heading": {
-        "sm": {
+        "H5": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2565,7 +2565,7 @@
             "type": "typography"
           }
         },
-        "sm-underline": {
+        "H5-underline": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2607,7 +2607,7 @@
             "type": "typography"
           }
         },
-        "md": {
+        "H4": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2645,7 +2645,7 @@
             "type": "typography"
           }
         },
-        "md-underline": {
+        "H4-underline": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2687,7 +2687,7 @@
             "type": "typography"
           }
         },
-        "lg": {
+        "H3": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2725,7 +2725,7 @@
             "type": "typography"
           }
         },
-        "xl": {
+        "H2": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
@@ -2763,7 +2763,7 @@
             "type": "typography"
           }
         },
-        "xxl": {
+        "H1": {
           "light": {
             "value": {
               "fontFamily": "{fontFamilies.vodafone-lt}",
