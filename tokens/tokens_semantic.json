@@ -673,444 +673,448 @@
           "type": "spacing",
           "description": "regualr buttons "
         }
-      },
-      "Paragraph": {
-        "Footnote": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}"
+      }
+    },
+    "size": {
+      "Mobile": {
+        "Paragraph": {
+          "Footnote": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}"
+              },
+              "type": "typography"
+            }
           },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}"
+          "Footnote-underline": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.0}",
+                "lineHeight": "{lineHeights.0}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            }
           },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}"
+          "Body": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}"
+              },
+              "type": "typography"
+            }
           },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}"
+          "Body-underline": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.1}",
+                "lineHeight": "{lineHeights.2}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            }
           }
         },
-        "Footnote-underline": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}",
-              "textDecoration": "{textDecoration.underline}"
+        "Headings": {
+          "H5": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.none}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.none}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
+            }
           },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}",
-              "textDecoration": "{textDecoration.underline}"
+          "H5-underline": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.2}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            }
           },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}",
-              "textDecoration": "{textDecoration.underline}"
+          "H4": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}"
+              },
+              "type": "typography"
+            }
           },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.0}",
-              "lineHeight": "{lineHeights.0}",
-              "textDecoration": "{textDecoration.underline}"
+          "H4-underline": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
-          }
-        },
-        "Body": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.3}",
+                "lineHeight": "{lineHeights.7}",
+                "textDecoration": "{textDecoration.underline}"
+              },
+              "type": "typography"
+            }
           },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}"
+          "H3": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.4}",
+                "lineHeight": "{lineHeights.6}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.4}",
+                "lineHeight": "{lineHeights.6}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.4}",
+                "lineHeight": "{lineHeights.6}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.4}",
+                "lineHeight": "{lineHeights.6}"
+              },
+              "type": "typography"
+            }
           },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}"
+          "H2": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.5}",
+                "lineHeight": "{lineHeights.9}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.5}",
+                "lineHeight": "{lineHeights.9}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.5}",
+                "lineHeight": "{lineHeights.9}"
+              },
+              "type": "typography"
+            },
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.5}",
+                "lineHeight": "{lineHeights.9}"
+              },
+              "type": "typography"
+            }
           },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}"
+          "H1": {
+            "light": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-lt}",
+                "fontWeight": "{fontWeights.vodafone-lt-Regular}",
+                "fontSize": "{fontSize.6}",
+                "lineHeight": "{lineHeights.8}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
-          }
-        },
-        "Body-underline": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}",
-              "textDecoration": "{textDecoration.underline}"
+            "regular": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Regular}",
+                "fontSize": "{fontSize.6}",
+                "lineHeight": "{lineHeights.8}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}",
-              "textDecoration": "{textDecoration.underline}"
+            "extrabold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-exb}",
+                "fontWeight": "{fontWeights.vodafone-exb}",
+                "fontSize": "{fontSize.6}",
+                "lineHeight": "{lineHeights.8}"
+              },
+              "type": "typography"
             },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.1}",
-              "lineHeight": "{lineHeights.2}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          }
-        }
-      },
-      "Headings": {
-        "H5": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.none}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.none}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          }
-        },
-        "H5-underline": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.2}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          }
-        },
-        "H4": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}"
-            },
-            "type": "typography"
-          }
-        },
-        "H4-underline": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.3}",
-              "lineHeight": "{lineHeights.7}",
-              "textDecoration": "{textDecoration.underline}"
-            },
-            "type": "typography"
-          }
-        },
-        "H3": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.4}",
-              "lineHeight": "{lineHeights.6}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.4}",
-              "lineHeight": "{lineHeights.6}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.4}",
-              "lineHeight": "{lineHeights.6}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.4}",
-              "lineHeight": "{lineHeights.6}"
-            },
-            "type": "typography"
-          }
-        },
-        "H2": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.5}",
-              "lineHeight": "{lineHeights.9}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.5}",
-              "lineHeight": "{lineHeights.9}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.5}",
-              "lineHeight": "{lineHeights.9}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.5}",
-              "lineHeight": "{lineHeights.9}"
-            },
-            "type": "typography"
-          }
-        },
-        "H1": {
-          "light": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-lt}",
-              "fontWeight": "{fontWeights.vodafone-lt-Regular}",
-              "fontSize": "{fontSize.6}",
-              "lineHeight": "{lineHeights.8}"
-            },
-            "type": "typography"
-          },
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Regular}",
-              "fontSize": "{fontSize.6}",
-              "lineHeight": "{lineHeights.8}"
-            },
-            "type": "typography"
-          },
-          "extrabold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-exb}",
-              "fontWeight": "{fontWeights.vodafone-exb}",
-              "fontSize": "{fontSize.6}",
-              "lineHeight": "{lineHeights.8}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamilies.vodafone-rg}",
-              "fontWeight": "{fontWeights.vodafone-rg-Bold}",
-              "fontSize": "{fontSize.6}",
-              "lineHeight": "{lineHeights.8}"
-            },
-            "type": "typography"
+            "bold": {
+              "value": {
+                "fontFamily": "{fontFamilies.vodafone-rg}",
+                "fontWeight": "{fontWeights.vodafone-rg-Bold}",
+                "fontSize": "{fontSize.6}",
+                "lineHeight": "{lineHeights.8}"
+              },
+              "type": "typography"
+            }
           }
         }
       }
