@@ -637,8 +637,44 @@
         "type": "borderRadius"
       }
     },
-    "Mobile": {
-      "Spacing": {
+    "spacing": {
+      "Mobile": {
+        "xxs": {
+          "value": "{spacing.SP-1}",
+          "type": "spacing",
+          "description": "Very Small Spacing , Used for Tiny Gaps "
+        },
+        "xs": {
+          "value": "{spacing.SP-3}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{spacing.SP-4}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.SP-5}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.SP-14}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{spacing.SP-6}",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "{spacing.SP-7}",
+          "type": "spacing"
+        },
+        "regular": {
+          "value": "{spacing.SP-15}",
+          "type": "spacing",
+          "description": "regualr buttons "
+        }
+      },
+      "Desktop(WIP)": {
         "xxs": {
           "value": "{spacing.SP-1}",
           "type": "spacing",
@@ -1584,44 +1620,6 @@
           "color": "{color.Border.Accent.Highlighted}"
         },
         "type": "border"
-      }
-    },
-    "Desktop(WIP)": {
-      "Spacing": {
-        "xxs": {
-          "value": "{spacing.SP-1}",
-          "type": "spacing",
-          "description": "Very Small Spacing , Used for Tiny Gaps "
-        },
-        "xs": {
-          "value": "{spacing.SP-3}",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "{spacing.SP-4}",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "{spacing.SP-5}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{spacing.SP-14}",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "{spacing.SP-6}",
-          "type": "spacing"
-        },
-        "xxl": {
-          "value": "{spacing.SP-7}",
-          "type": "spacing"
-        },
-        "regular": {
-          "value": "{spacing.SP-15}",
-          "type": "spacing",
-          "description": "regualr buttons "
-        }
       }
     }
   },
