@@ -639,7 +639,7 @@
     },
     "spacing": {
       "Mobile": {
-        "xxs": {
+        "2xs": {
           "value": "{spacing.SP-1}",
           "type": "spacing",
           "description": "Very Small Spacing , Used for Tiny Gaps "
@@ -653,30 +653,30 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{spacing.SP-5}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{spacing.SP-14}",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "{spacing.SP-6}",
-          "type": "spacing"
-        },
-        "xxl": {
-          "value": "{spacing.SP-7}",
-          "type": "spacing"
-        },
-        "regular": {
           "value": "{spacing.SP-15}",
           "type": "spacing",
           "description": "regualr buttons "
+        },
+        "lg": {
+          "value": "{spacing.SP-5}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{spacing.SP-14}",
+          "type": "spacing"
+        },
+        "2xl": {
+          "value": "{spacing.SP-6}",
+          "type": "spacing"
+        },
+        "3xl": {
+          "value": "{spacing.SP-7}",
+          "type": "spacing"
         }
       },
       "Desktop(WIP)": {
-        "xxs": {
-          "value": "{spacing.SP-1}",
+        "2xs": {
+          "value": "{spacing.SP-2}",
           "type": "spacing",
           "description": "Very Small Spacing , Used for Tiny Gaps "
         },
@@ -685,29 +685,28 @@
           "type": "spacing"
         },
         "sm": {
-          "value": "{spacing.SP-4}",
-          "type": "spacing"
-        },
-        "md": {
           "value": "{spacing.SP-5}",
           "type": "spacing"
         },
-        "lg": {
+        "md": {
           "value": "{spacing.SP-14}",
           "type": "spacing"
         },
-        "xl": {
+        "lg": {
           "value": "{spacing.SP-6}",
           "type": "spacing"
         },
-        "xxl": {
+        "xl": {
           "value": "{spacing.SP-7}",
           "type": "spacing"
         },
-        "regular": {
-          "value": "{spacing.SP-15}",
-          "type": "spacing",
-          "description": "regualr buttons "
+        "2xl": {
+          "value": "{spacing.SP-8}",
+          "type": "spacing"
+        },
+        "3xl": {
+          "value": "{spacing.SP-9}",
+          "type": "spacing"
         }
       }
     },
