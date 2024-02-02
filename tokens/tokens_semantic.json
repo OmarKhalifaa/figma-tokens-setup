@@ -674,7 +674,7 @@
           "type": "spacing"
         }
       },
-      "Desktop(WIP)": {
+      "Desktop": {
         "2xs": {
           "value": "{spacing.SP-2}",
           "type": "spacing",
